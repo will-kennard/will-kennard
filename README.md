@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @will-kennard
+- 👀 I’m interested in being a better product manager
+- 🌱 I’m currently learning backend web dev
+- 💞️ I’m looking to collaborate on health & fitness tech projects
+- 📫 How to reach me https://www.willkennard.com/linktree
