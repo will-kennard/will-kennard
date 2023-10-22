@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @will-kennard
-- 👀 I’m interested in being a better product manager
-- 🌱 I’m currently learning backend web dev
+- 🕵🏻‍♀️ I’m a seasoned marketer with a sepcialism in SEO
+- 🌱 I’m currently learning full stack JS development
 - 💞️ I’m looking to collaborate on health & fitness tech projects
-- 📫 How to reach me https://www.willkennard.com/linktree
+- 📫 Reach me on my personal website [Will Kennard](https://willkennard.com)
